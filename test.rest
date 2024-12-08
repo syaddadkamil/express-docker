@@ -1,0 +1,11 @@
+## Send Request
+GET http://localhost:3000
+
+
+## Send Request
+POST http://localhost:3000
+Content-Type: application/json
+
+{
+    "name": "srv", "location": "cimanggis"
+}
